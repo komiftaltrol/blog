@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>カミアチョ</title>
+  
+  <subtitle>カミアチョのブログ | Made by Comiftaltrol</subtitle>
+  <link href="https://komiftaltrol.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://komiftaltrol.github.io/"/>
+  <updated>2025-06-27T07:01:08.911Z</updated>
+  <id>https://komiftaltrol.github.io/</id>
+  
+  <author>
+    <name>カミアチョ</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>對不起！</title>
+    <link href="https://komiftaltrol.github.io/posts/be7f7555.html"/>
+    <id>https://komiftaltrol.github.io/posts/be7f7555.html</id>
+    <published>2025-06-26T11:02:55.000Z</published>
+    <updated>2025-06-27T07:01:08.911Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="部落格重寫"><a href="#部落格重寫" class="headerlink" title="部落格重寫"></a>部落格重寫</h2><p>我在重裝我的EndeavourOS的時候把硬碟清除了，我存放在其中的部落格文件全都不見了，而且也找不回來了，於是只好使用新買的電腦重新寫一遍。</p><h2 id="之後會做些什麽"><a href="#之後會做些什麽" class="headerlink" title="之後會做些什麽"></a>之後會做些什麽</h2><p>以後只會在節假日編寫部落格了，學習壓力是一點，而最大的原因就是懶惰lazy。以後我除了語言分享估計還會做一些計算機、算法還有數學啊之類的，也有可能又會有事故，雖然如此，你們可以關注我的社群媒體來查看部落格動態新聞</p><p>just this, bye.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;部落格重寫&quot;&gt;&lt;a href=&quot;#部落格重寫&quot; class=&quot;headerlink&quot; title=&quot;部落格重寫&quot;&gt;&lt;/a&gt;部落格重寫&lt;/h2&gt;&lt;p&gt;我在重裝我的EndeavourOS的時候把硬碟清除了，我存放在其中的部落格文件全都不見了，而且也找不回來了，於是只好</summary>
+      
+    
+    
+    
+    
+    <category term="其他" scheme="https://komiftaltrol.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://komiftaltrol.github.io/posts/4a17b156.html"/>
+    <id>https://komiftaltrol.github.io/posts/4a17b156.html</id>
+    <published>2024-02-04T06:09:49.000Z</published>
+    <updated>2025-06-27T07:01:06.816Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+    <category term="其他" scheme="https://komiftaltrol.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    
+  </entry>
+  
+</feed>
