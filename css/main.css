@@ -6481,7 +6481,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   --blur-px: 100px;
   --brightness: 100%;
   --inset: 32px;
-  background-image: url("/images/root/bar.jpg");
+  background-image: url("/images/root/leftbar.jpg");
   filter: saturate(var(--saturate)) brightness(var(--brightness)) blur(var(--blur-px));
 }
 @media screen and (prefers-color-scheme: dark) {
