@@ -46,7 +46,7 @@
   --link: hsla(207deg 90% 54% / 1);
   --link-a20: hsla(207deg 90% 54% / 0.2);
   --background: hsla(210deg 20% 98% / 1);
-  --card: rgba(255,255,255,0.5);
+  --card: #fff;
   --bg-a20: hsla(210deg 0% 100% / 0.2);
   --bg-a50: hsla(210deg 0% 100% / 0.5);
   --bg-a60: hsla(210deg 0% 100% / 0.6);
@@ -68,7 +68,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background: hsla(210deg 8% 12% / 1);
-    --card: rgba(255,255,255,0.25);
+    --card: hsla(210deg 10% 24% / 1);
     --bg-a20: hsla(210deg 0% 0% / 0.2);
     --bg-a50: hsla(210deg 0% 0% / 0.5);
     --bg-a60: hsla(210deg 0% 0% / 0.6);
@@ -96,7 +96,7 @@
 }
 :root[data-theme="light"] {
   --background: hsla(210deg 20% 98% / 1);
-  --card: rgba(255,255,255,0.5);
+  --card: #fff;
   --bg-a20: hsla(210deg 0% 100% / 0.2);
   --bg-a50: hsla(210deg 0% 100% / 0.5);
   --bg-a60: hsla(210deg 0% 100% / 0.6);
@@ -117,7 +117,7 @@
 }
 :root[data-theme="dark"] {
   --background: hsla(210deg 8% 12% / 1);
-  --card: rgba(255,255,255,0.25);
+  --card: hsla(210deg 10% 24% / 1);
   --bg-a20: hsla(210deg 0% 0% / 0.2);
   --bg-a50: hsla(210deg 0% 0% / 0.5);
   --bg-a60: hsla(210deg 0% 0% / 0.6);
@@ -384,7 +384,7 @@
   --theme-mark: var(--theme);
   --theme-codeblock: var(--theme);
   --background: hsla(210deg 20% 98% / 1);
-  --card: rgba(255,255,255,0.5);
+  --card: #fff;
   --bg-a20: hsla(210deg 0% 100% / 0.2);
   --bg-a50: hsla(210deg 0% 100% / 0.5);
   --bg-a60: hsla(210deg 0% 100% / 0.6);
@@ -405,7 +405,7 @@
 }
 .colorful[color='dark'] {
   --background: hsla(210deg 8% 12% / 1);
-  --card: rgba(255,255,255,0.25);
+  --card: hsla(210deg 10% 24% / 1);
   --bg-a20: hsla(210deg 0% 0% / 0.2);
   --bg-a50: hsla(210deg 0% 0% / 0.5);
   --bg-a60: hsla(210deg 0% 0% / 0.6);
@@ -458,7 +458,7 @@
   --link: hsla(50.96385542168675deg 95% 32% / 1);
   --link-a20: hsla(50.96385542168675deg 95% 32% / 0.2);
   --background: hsla(210deg 20% 98% / 1);
-  --card: rgba(255,255,255,0.5);
+  --card: #fff;
   --bg-a20: hsla(210deg 0% 100% / 0.2);
   --bg-a50: hsla(210deg 0% 100% / 0.5);
   --bg-a60: hsla(210deg 0% 100% / 0.6);
@@ -505,7 +505,7 @@
   --link: hsla(4.105263157894738deg 80% 60% / 1);
   --link-a20: hsla(4.105263157894738deg 80% 60% / 0.2);
   --background: hsla(210deg 8% 12% / 1);
-  --card: rgba(255,255,255,0.25);
+  --card: hsla(210deg 10% 24% / 1);
   --bg-a20: hsla(210deg 0% 0% / 0.2);
   --bg-a50: hsla(210deg 0% 0% / 0.5);
   --bg-a60: hsla(210deg 0% 0% / 0.6);
@@ -7680,6 +7680,11 @@ details.toc[open] >div.body section .header+.doc_tree {
   background: var(--block);
   border-radius: 4px;
 }
+@media screen and (min-width: 1180px) {
+  .widget-wrapper.toc {
+    background: var(--background);
+  }
+}
 .widget-wrapper.toc .toc {
   --fsp: calc(17px - 2px);
   padding: 0;
@@ -9036,7 +9041,6 @@ body>.sitebg {
   right: 0;
   bottom: 0;
   background-size: cover;
-  background-image: url("/images/root/background2.jpg");
 }
 body>.sitebg .siteblur {
   width: 100%;
@@ -9044,7 +9048,7 @@ body>.sitebg .siteblur {
   --blur-px: 0;
   --blur-sat: 200%;
   background-color: var(--blur-bg);
-  --blur-sat: 300%;
+  --blur-sat: 100%;
   --blur-px: 10px;
   --blur-bg: var(--alpha75);
 }
@@ -9319,6 +9323,9 @@ div.swiper-slide img {
 }
 .swiper-button-next:after {
   transform: translateX(1px);
+}
+.slide-up {
+  visibility: hidden;
 }
 img[data-fancybox],
 a[data-fancybox] {
@@ -9779,7 +9786,7 @@ a[data-fancybox] {
   --at-color-sub: var(--text-p3);
   --at-color-grey: var(--text-p4);
   --at-color-meta: var(--text-p4);
-  --at-color-border: transparent;
+  --at-color-border: var(--block-border);
   --at-color-light: var(--link);
   --at-color-bg: var(--card);
   --at-color-bg-transl: var(--card);
