@@ -13,7 +13,7 @@ utils.jq(() => {
     const timelines = document.getElementsByClassName('ds-timeline');
     for (var i = 0; i < timelines.length; i++) {
       const el = timelines[i];
-      const api = el.dataset.api;
+      const api = el.getAttribute('api');
       if (api == null) {
         continue;
       }
@@ -101,7 +101,6 @@ utils.jq(() => {
           cell += '</div>';
           $(el).append(cell);
         });
-        window.wrapLazyloadImages(el);
       });
     }
   });
