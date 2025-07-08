@@ -3,11 +3,11 @@
   <title>カミアチョ</title>
   
   <subtitle>カミアチョのブログ | Made by Comiftaltrol</subtitle>
-  <link href="https://komiftaltrol.github.io/atom.xml" rel="self"/>
+  <link href="https://comiftaltrol.pages.dev/atom.xml" rel="self"/>
   
-  <link href="https://komiftaltrol.github.io/"/>
+  <link href="https://comiftaltrol.pages.dev/"/>
   <updated>2025-06-27T07:01:08.911Z</updated>
-  <id>https://komiftaltrol.github.io/</id>
+  <id>https://comiftaltrol.pages.dev/</id>
   
   <author>
     <name>カミアチョ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>對不起！</title>
-    <link href="https://komiftaltrol.github.io/posts/be7f7555.html"/>
-    <id>https://komiftaltrol.github.io/posts/be7f7555.html</id>
+    <link href="https://comiftaltrol.pages.dev/posts/be7f7555"/>
+    <id>https://comiftaltrol.pages.dev/posts/be7f7555</id>
     <published>2025-06-26T11:02:55.000Z</published>
     <updated>2025-06-27T07:01:08.911Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="其他" scheme="https://komiftaltrol.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    <category term="其他" scheme="https://comiftaltrol.pages.dev/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://komiftaltrol.github.io/posts/4a17b156.html"/>
-    <id>https://komiftaltrol.github.io/posts/4a17b156.html</id>
+    <link href="https://comiftaltrol.pages.dev/posts/4a17b156"/>
+    <id>https://comiftaltrol.pages.dev/posts/4a17b156</id>
     <published>2024-02-04T06:09:49.000Z</published>
     <updated>2025-06-27T07:01:06.816Z</updated>
     
@@ -56,7 +56,7 @@
     
     
     
-    <category term="其他" scheme="https://komiftaltrol.github.io/tags/%E5%85%B6%E4%BB%96/"/>
+    <category term="其他" scheme="https://comiftaltrol.pages.dev/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
