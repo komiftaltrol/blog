@@ -7181,7 +7181,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   right: var(--inset);
   border-radius: 24px;
   --saturate: 400%;
-  --blur-px: 100px;
+  --blur-px: 90px;
   --background-opacity: 1;
   background-position: center;
   background-size: cover;

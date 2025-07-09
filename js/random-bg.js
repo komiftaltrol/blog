@@ -55,6 +55,25 @@
   mask.style.width = '100vw';
   mask.style.height = '100vh';
   mask.style.zIndex = '-1';
-  mask.style.background = 'var(--alpha75)'; // 可根據 _config.stellar.yml 調整
+  
+  function setMaskColor() {
+    let theme = document.documentElement.getAttribute('data-theme');
+    if (theme === 'auto' || !theme) {
+      // 根據系統偏好
+      theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+    if (theme === 'dark') {
+      mask.style.background = 'rgba(0,0,0,0.3)';
+    } else {
+      mask.style.background = 'rgba(255,255,255,0.3)';
+    }
+  }
+  setMaskColor();
+
+  const observer = new MutationObserver(setMaskColor);
+  observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setMaskColor);
+
+  // 可根據 _config.stellar.yml 調整
   document.body.appendChild(mask);
 })();
