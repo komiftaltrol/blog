@@ -63,9 +63,9 @@
       theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     }
     if (theme === 'dark') {
-      mask.style.background = 'rgba(0,0,0,0.3)';
+      mask.style.background = 'rgba(0,0,0,0.35)';
     } else {
-      mask.style.background = 'rgba(255,255,255,0.3)';
+      mask.style.background = 'rgba(255,255,255,0.35)';
     }
   }
   setMaskColor();

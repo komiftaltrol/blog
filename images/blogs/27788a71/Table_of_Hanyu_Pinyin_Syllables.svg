@@ -1,0 +1,65 @@
+<svg width="505" height="365" font-family="Liberation Sans, VL Gothic" version="1.1" viewBox="0 0 505 365" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.3333 0 0 -1.3333 -432.94 811.88)">
+  <g transform="translate(-182.12 -21.998)">
+   <path d="m506.82 630.91h378.75v-273.75h-378.75z" fill="#fbe5d5"/>
+   <text transform="scale(1,-1)" x="696.56964" y="-586.0625" fill="#000000" font-size="35.1px" stroke="#000000" text-align="center" text-anchor="middle" xml:space="preserve">汉语拼音字母表</text>
+   <text transform="scale(1,-1)" x="509.81931" y="-553.70508" fill="#000000" font-size="14px" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" stroke-width=".5" xml:space="preserve">声母表（23个）</text>
+   <path d="m507.57 549.16h378v-85.5h-378z" fill="#fff"/>
+   <path d="m506.82 463.66v86.25h378.75v-86.25h-378zm0.75 0.75h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm-330.75 28.5h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm-330.75 28.5h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5z" color="#000000" stroke-miterlimit="10" style="-inkscape-stroke:none"/>
+   <g transform="translate(-378.75 188.25)" font-size="13.65px" font-weight="bold">
+    <text transform="scale(1,-1)" x="905.07129" y="-342.11542" xml:space="preserve">b</text>
+    <text transform="scale(1,-1)" x="952.32129" y="-342.11542" xml:space="preserve">p</text>
+    <text transform="scale(1,-1)" x="997.32129" y="-342.11542" xml:space="preserve">m</text>
+    <text transform="scale(1,-1)" x="1048.3213" y="-342.11542" xml:space="preserve">f</text>
+    <text transform="scale(1,-1)" x="1094.0713" y="-342.11542" xml:space="preserve">d</text>
+    <text transform="scale(1,-1)" x="1142.8213" y="-342.11542" xml:space="preserve">t</text>
+    <text transform="scale(1,-1)" x="1188.5713" y="-342.11542" xml:space="preserve">n</text>
+    <text transform="scale(1,-1)" x="1238.0713" y="-342.11542" xml:space="preserve">l</text>
+    <text transform="scale(1,-1)" x="905.07129" y="-313.61542" xml:space="preserve">g</text>
+    <text transform="scale(1,-1)" x="952.32129" y="-313.61542" xml:space="preserve">k</text>
+    <text transform="scale(1,-1)" x="999.57129" y="-313.61542" xml:space="preserve">h</text>
+    <text transform="scale(1,-1)" x="1049.0713" y="-313.61542" xml:space="preserve">j</text>
+    <text transform="scale(1,-1)" x="1094.0713" y="-313.61542" xml:space="preserve">q</text>
+    <text transform="scale(1,-1)" x="1141.3213" y="-313.61542" xml:space="preserve">x</text>
+    <text transform="scale(1,-1)" x="1184.8213" y="-313.61542" xml:space="preserve">zh</text>
+    <text transform="scale(1,-1)" x="1232.0713" y="-313.61542" xml:space="preserve">ch</text>
+    <text transform="scale(1,-1)" x="901.32129" y="-285.11542" xml:space="preserve">sh</text>
+    <text transform="scale(1,-1)" x="953.82129" y="-285.11542" xml:space="preserve">r</text>
+    <text transform="scale(1,-1)" x="1000.3213" y="-285.11542" xml:space="preserve">z</text>
+    <text transform="scale(1,-1)" x="1046.8213" y="-285.11542" xml:space="preserve">c</text>
+    <text transform="scale(1,-1)" x="1094.0713" y="-285.11542" xml:space="preserve">s</text>
+    <text transform="scale(1,-1)" x="1141.3213" y="-285.11542" xml:space="preserve">y</text>
+    <text transform="scale(1,-1)" x="1187.0713" y="-285.11542" xml:space="preserve">w</text>
+   </g>
+   <text transform="scale(1,-1)" x="509.81931" y="-447.20505" fill="#000000" font-size="14px" stroke="#000000" stroke-width=".5" xml:space="preserve">韵母表（24个）</text>
+   <path d="m507.57 442.66h378v-85.5h-378z" fill="#fff"/>
+   <path d="m506.82 357.16v86.25h378.75v-86.25h-378zm0.75 0.75h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm-330.75 28.5h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm-330.75 28.5h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.502v27.75h-46.502zm47.252 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5zm47.25 0h46.5v27.75h-46.5z" color="#000000" stroke-miterlimit="10" style="-inkscape-stroke:none"/>
+   <g transform="translate(-378.75 188.25)" font-size="13.65px" font-weight="bold">
+    <text transform="scale(1,-1)" x="905.07129" y="-235.6154" xml:space="preserve">a</text>
+    <text transform="scale(1,-1)" x="952.32129" y="-235.6154" xml:space="preserve">o</text>
+    <text transform="scale(1,-1)" x="999.57129" y="-235.6154" xml:space="preserve">e</text>
+    <text transform="scale(1,-1)" x="1049.0713" y="-235.6154" xml:space="preserve">i</text>
+    <text transform="scale(1,-1)" x="1094.0713" y="-235.6154" xml:space="preserve">u</text>
+    <text transform="scale(1,-1)" x="1141.3213" y="-235.6154" xml:space="preserve">ü</text>
+    <text transform="scale(1,-1)" x="1187.0713" y="-235.6154" xml:space="preserve">ai</text>
+    <text transform="scale(1,-1)" x="1234.3213" y="-235.6154" xml:space="preserve">ei</text>
+    <text transform="scale(1,-1)" x="902.82129" y="-207.1154" xml:space="preserve">ui</text>
+    <text transform="scale(1,-1)" x="948.57129" y="-207.1154" xml:space="preserve">ao</text>
+    <text transform="scale(1,-1)" x="995.07129" y="-207.1154" xml:space="preserve">ou</text>
+    <text transform="scale(1,-1)" x="1044.5713" y="-207.1154" xml:space="preserve">iu</text>
+    <text transform="scale(1,-1)" x="1092.5713" y="-207.1154" xml:space="preserve">ie</text>
+    <text transform="scale(1,-1)" x="1137.5713" y="-207.1154" xml:space="preserve">üe</text>
+    <text transform="scale(1,-1)" x="1186.3213" y="-207.1154" xml:space="preserve">er</text>
+    <text transform="scale(1,-1)" x="1232.0713" y="-207.1154" xml:space="preserve">an</text>
+    <text transform="scale(1,-1)" x="901.32129" y="-178.6154" xml:space="preserve">en</text>
+    <text transform="scale(1,-1)" x="950.07129" y="-178.6154" xml:space="preserve">in</text>
+    <text transform="scale(1,-1)" x="995.07129" y="-178.6154" xml:space="preserve">un</text>
+    <text transform="scale(1,-1)" x="1042.3213" y="-178.6154" xml:space="preserve">ün</text>
+    <text transform="scale(1,-1)" x="1085.8213" y="-178.6154" xml:space="preserve">ang</text>
+    <text transform="scale(1,-1)" x="1133.0713" y="-178.6154" xml:space="preserve">eng</text>
+    <text transform="scale(1,-1)" x="1182.5713" y="-178.6154" xml:space="preserve">ing</text>
+    <text transform="scale(1,-1)" x="1227.5713" y="-178.6154" xml:space="preserve">ong</text>
+   </g>
+  </g>
+ </g>
+</svg>
